@@ -1,0 +1,22 @@
+{
+  "name": "doomfire",
+  "version": "1.0.0",
+  "description": "render a doom fire in your pc ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lguifcosta/DoomFire.git"
+  },
+  "author": "luan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lguifcosta/DoomFire/issues"
+  },
+  "homepage": "https://github.com/lguifcosta/DoomFire#readme",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
